@@ -8,7 +8,7 @@
       "",
       "export type ${TM_FILENAME_BASE}Props = {}",
       "export const ${TM_FILENAME_BASE}: React.FC<${TM_FILENAME_BASE}Props> = ({ children }) => {",
-      "  return <div>{children}</div>",
+      "  return <div className={styles.root}>{children}</div>",
       "}",
       ""
     ],

@@ -8,7 +8,7 @@
       "",
       "export type ${TM_FILENAME_BASE}Props = {}",
       "export const ${TM_FILENAME_BASE}: React.VFC<${TM_FILENAME_BASE}Props> = ({ }) => {",
-      "  return <div></div>",
+      "  return <div className={styles.root}></div>",
       "}",
       ""
     ],
