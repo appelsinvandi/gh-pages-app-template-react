@@ -1,6 +1,6 @@
 {
   "React Void Functional Component": {
-    "prefix": "rvfc",
+    "prefix": "vfc",
     "body": [
       "import React from 'react'",
       "",

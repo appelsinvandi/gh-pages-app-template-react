@@ -1,6 +1,6 @@
 {
   "React Functional Component": {
-    "prefix": "rfc",
+    "prefix": "fc",
     "body": [
       "import React from 'react'",
       "",
