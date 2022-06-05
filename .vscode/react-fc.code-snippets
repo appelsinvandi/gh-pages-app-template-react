@@ -4,9 +4,9 @@
     "body": [
       "import React from 'react'",
       "",
-      "import styles from './${TM_FILENAME_BASE}.module.scss'",
+      "import * as styles from './${TM_FILENAME_BASE}.module.scss'",
       "",
-      "export type ${TM_FILENAME_BASE}Props = {}",
+      "export type ${TM_FILENAME_BASE}Props = React.PropsWithChildren<{}>",
       "export const ${TM_FILENAME_BASE}: React.FC<${TM_FILENAME_BASE}Props> = ({ children }) => {",
       "  return <div className={styles.root}>{children}</div>",
       "}",
