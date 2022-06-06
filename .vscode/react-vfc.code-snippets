@@ -4,7 +4,7 @@
     "body": [
       "import React from 'react'",
       "",
-      "import * as styles from './${TM_FILENAME_BASE}.module.scss'",
+      "import styles from './${TM_FILENAME_BASE}.module.scss'",
       "",
       "export type ${TM_FILENAME_BASE}Props = {}",
       "export const ${TM_FILENAME_BASE}: React.FC<${TM_FILENAME_BASE}Props> = ({ }) => {",

@@ -1,6 +1,6 @@
 import React from 'react'
 
-import * as styles from './App.module.scss'
+import styles from './App.module.scss'
 
 export type AppProps = {}
 export const App: React.FC<AppProps> = () => {
