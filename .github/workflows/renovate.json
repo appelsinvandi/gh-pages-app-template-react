@@ -14,9 +14,10 @@
     ":separateMajorReleases",
     ":skipStatusChecks",
     ":updateNotScheduled",
+    "group:monorepos",
     "group:recommended",
     "helpers:disableTypesNodeMajor",
-    "schedule:daily"
+    "workarounds:all"
   ],
   "packageRules": []
 }
