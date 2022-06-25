@@ -1,3 +1,3 @@
-# React GH Pages App
+# GH Pages App - React
 
-An opinionared template repo for making small React apps hosted on GH Pages.
+An opinionated template repo for making small React apps hosted on GH Pages.
