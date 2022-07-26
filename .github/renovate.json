@@ -1,8 +1,8 @@
 {
   "timezone": "Europe/Copenhagen",
   "extends": [
-    ":automergeMinor",
     ":automergeBranch",
+    ":automergeMinor",
     ":disableDependencyDashboard",
     ":disableRateLimiting",
     ":ignoreModulesAndTests",
@@ -14,6 +14,7 @@
     ":separateMajorReleases",
     ":skipStatusChecks",
     ":updateNotScheduled",
+    "group:allNonMajor",
     "group:monorepos",
     "group:recommended",
     "helpers:disableTypesNodeMajor",
