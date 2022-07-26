@@ -1,7 +1,6 @@
 {
   "timezone": "Europe/Copenhagen",
   "extends": [
-    ":automergeBranch",
     ":automergeMinor",
     ":disableDependencyDashboard",
     ":disableRateLimiting",
