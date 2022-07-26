@@ -20,6 +20,12 @@
     "helpers:disableTypesNodeMajor",
     "workarounds:all"
   ],
-  "packageRules": [],
+  "packageRules": [
+    {
+      "matchPackageNames": ["vite"],
+      "matchPackagePrefixes": ["@vitejs/*"],
+      "groupName": "Vite"
+    }
+  ],
   "rangeStrategy": "bump"
 }
