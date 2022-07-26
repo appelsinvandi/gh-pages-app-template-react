@@ -23,8 +23,8 @@
   "packageRules": [
     {
       "matchPackageNames": ["vite"],
-      "matchPackagePrefixes": ["@vitejs/*"],
-      "groupName": "Vite"
+      "matchPackagePrefixes": ["@vitejs/"],
+      "groupName": "Vite and plugins"
     }
   ],
   "rangeStrategy": "bump"
