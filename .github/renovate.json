@@ -18,5 +18,6 @@
     "helpers:disableTypesNodeMajor",
     "workarounds:all"
   ],
-  "packageRules": []
+  "packageRules": [],
+  "rangeStrategy": "bump"
 }
