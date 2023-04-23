@@ -1,5 +1,4 @@
 import React from 'react'
-
 import styles from './App.module.scss'
 
 export type AppProps = {}
