@@ -21,7 +21,7 @@
     "@types/node": "^16.18.59",
     "@types/react": "^18.2.33",
     "@types/react-dom": "^18.2.14",
-    "@typescript-eslint/parser": "^6.9.0",
+    "@typescript-eslint/parser": "^6.9.1",
     "@vitejs/plugin-react": "^4.1.0",
     "eslint": "^8.52.0",
     "eslint-plugin-react": "^7.33.2",
