@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "@total-typescript/ts-reset": "^0.5.1",
-    "@tsconfig/vite-react": "^3.0.0",
+    "@tsconfig/vite-react": "^3.0.1",
     "@types/node": "^20.11.24",
     "@types/react": "^18.2.63",
     "@types/react-dom": "^18.2.20",
